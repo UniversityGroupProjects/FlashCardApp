@@ -7,4 +7,4 @@ Datasets used:
 It contains approximately 13 million real learning traces, with historical practice counts, time intervals, and observed recall proportions.
 
 [Tatoeba sentence pairs](https://huggingface.co/datasets/Helsinki-NLP/tatoeba) (Natural-language dataset)
-Tatoeba provides sentences and linked translations, including custom exports for selected language pairs.
+Tatoeba provides sentences and linked translations, including custom exports for selected language pairs. 
