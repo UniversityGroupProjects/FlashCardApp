@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# end of automatic generation
+node_modules/
+.vite/
+*~
