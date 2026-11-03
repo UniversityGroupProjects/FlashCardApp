@@ -2,8 +2,6 @@
 
 An app that predicts which words need revision and groups vocabulary by meaning or topic.
 
-Add something
-
 Datasets used:
 [Duolingo Spaced Repetition](https://www.kaggle.com/datasets/aravinii/duolingo-spaced-repetition-data) (Numerical dataset)
 It contains approximately 13 million real learning traces, with historical practice counts, time intervals, and observed recall proportions.
